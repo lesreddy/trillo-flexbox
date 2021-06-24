@@ -1,0 +1,14 @@
+{
+    "name": "starter",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "sass": "node-sass -w sass/ -o css/ --recursive"
+    },
+    "author": "Les Reddy",
+    "license": "MIT",
+    "dependencies": {
+        "node-sass": "^6.0.1"
+    }
+}
