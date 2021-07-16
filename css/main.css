@@ -132,6 +132,7 @@ body {
 
 .user-nav {
   background-color: greenyellow;
+  display: flex;
 }
 
 .user-nav__icon {
